@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="DATA SHOWN HERE"
+        android:text="DATA IS SHOWN HERE"
         android:textSize="30sp"
         android:layout_margin="30dp"/>
 
